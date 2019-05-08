@@ -5,4 +5,10 @@ public class Categoria{
 		public Categoria{
 		
 	}
+	public int getId(){
+		return this.id;
+	}
+	public void setID(int id){
+		this.id=id;
+	}
 }
